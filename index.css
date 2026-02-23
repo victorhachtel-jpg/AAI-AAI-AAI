@@ -1,7 +1,19 @@
+body{
+    background-color: gray;
+}
+
 .aaiaaiaai{
     background-color: black;
     color: red;
     text-align: center;
     font-size: 100px;
+    border-radius: 100px 0 100px 0;
+}
+
+.aaiaaiaai2{
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-size: 50px;
     border-radius: 100px 0 100px 0;
 }
