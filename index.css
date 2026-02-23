@@ -2,6 +2,10 @@ body{
     background-color: gray;
 }
 
+img{
+    size: 1000px;
+}
+
 .aaiaaiaai{
     background-color: black;
     color: red;
